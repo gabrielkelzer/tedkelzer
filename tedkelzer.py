@@ -92,8 +92,8 @@ while MENU_TEDKELZER != "06":
                print ('''
                         \033[1;41m ESCOLHA 06: \033[0m
 \033[1;37m
-    Obrigado por utilizar o meu programa, peço que você se inscreva
-   no meu canal do YouTube\033[0m\033[1;33m @gabrielkelzer \033[0m\033[1;31m! \033[0m
+    Obrigado por utilizar o meu programa, peço que você se 
+   inscreva no meu canal do YouTube\033[0m\033[1;33m @gabrielkelzer \033[0m\033[1;31m! \033[0m
                ''')
                OP_PAUSAR = input(' \033[1;31m[\033[0m \033[1;37m!\033[0m \033[1;31m]\033[0m \033[1;37m-\033[0m \033[1;32mAPERTE ENTER PARA SAIR DO SOFTWARE:\033[0m')
           case _:    #Essa opção é somente se as anteriores não foram atendidas
